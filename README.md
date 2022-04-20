@@ -1,4 +1,4 @@
-# python_exe
+# python2exe
 ##### One-click package python project to become exe
 
 ###### 1.quickly start
